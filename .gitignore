@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+save/
+clip_feature/*cache*
+venv/
+*.tmp
+.DS_Store
